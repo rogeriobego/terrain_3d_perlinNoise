@@ -8,7 +8,11 @@
 
 ![5 - ](./img/terrain_3d_perlinNoise_04.png)
 
-#You have to install PeasyCam library
+
+### 1 - download and install Processing IDE:  https://processing.org
+
+
+### 2 - install PeasyCam library
 
 ![1 - ](./img/terrain_3d_perlinNoise_00.png)
 
