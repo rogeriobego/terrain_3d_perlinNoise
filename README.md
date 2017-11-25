@@ -8,7 +8,7 @@
 
 ![5 - ](./img/terrain_3d_perlinNoise_04.png)
 
-##You have to install PeasyCam library
+#You have to install PeasyCam library
 
 ![1 - ](./img/terrain_3d_perlinNoise_00.png)
 
