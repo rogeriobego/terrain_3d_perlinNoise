@@ -4,9 +4,13 @@
  
  based on Daniel Shiffman's tutorial - https://youtu.be/IKB1hWWedMk
  
- See demonstration on youtube - https://youtu.be/mpnxzte8RT0
+#### See demonstration on youtube - https://youtu.be/mpnxzte8RT0
 
-![5 - ](./img/terrain_3d_perlinNoise_04.png)
+![ - ](./img/terrain_3d_perlinNoise_04.png)
+
+#### See new version with seasons - https://youtu.be/gNFpAW4kc5o
+ 
+![ - ](./img/terrain_3d_perlinNoise_season.png)
 
 
 ### 1 - download and install Processing IDE:  https://processing.org
