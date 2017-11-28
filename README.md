@@ -27,6 +27,10 @@
 ![4 - ](./img/terrain_3d_perlinNoise_03.png)
 
 
+### How interpolate colors using learpColor
+
+![learpColor](./img/terrain_3D_learpColor.png)
+
 
  
  
